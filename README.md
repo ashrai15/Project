@@ -1,5 +1,5 @@
 # Senior Seminar Project
-As a senior at Union University, I am aiming to create an interactive map of my school's campus to aid visitors and students in finding their way around.
+As a senior at Union University, I am aiming to create an interactive map of my school's campus to aid visitors and students in finding their way around campus.
 
 ## Goals:
 - [ ] Find a suitable API for wifi triangulation
